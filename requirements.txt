@@ -1,0 +1,7 @@
+ezdxf==1.4.2
+laspy==2.5.4
+lazrs==0.6.2
+numpy==2.2.2
+pyproj==3.7.0
+scipy==1.15.1
+pyside6==6.7.3
